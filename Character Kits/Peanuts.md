@@ -14,6 +14,7 @@ He really likes Peanuts. Better hope you're not allergic to them.
 ----------------------------------------------------------
 
 ### Out-of-Combat Stats
+*This person hasn't yet spent their stat points to assign their out-of-combat stats.*
 | Stat | Value |
 |-|-|
 | Agility | 0 |
