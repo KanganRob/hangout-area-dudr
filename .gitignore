@@ -3,3 +3,5 @@
 .vs/hangout-area-dudr/v17/DocumentLayout.json
 .vs/slnx.sqlite
 .vs/VSWorkspaceState.json
+__pycache__/
+*.pyc
