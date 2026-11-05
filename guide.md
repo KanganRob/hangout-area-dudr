@@ -1,5 +1,12 @@
 # Guide
 
+## Navigation
+- [Stats Guide](#stats-guide)
+- [Damage Types](#damage-types)
+- [Levelling Up](#levelling-up)
+  - [Character XP](#character-xp)
+  - [Stat Points](#stat-points)
+
 ## Stats Guide
 Each character in the campaign has specific **abilities** and **combat** stats which control how strong they are and also how they function in battle.
 
@@ -96,3 +103,6 @@ I should also take this time to mention that I was sort of lying when I said you
 Alright, I think that about covers everything you need to know about the backend of things.
 
 Next, it's on to the character kits -- with rundowns on their stats and abilities.
+
+---
+You can find a full list of the characters in the campaign, with links to each of their individual kits, in the [character list](character-list.md).
